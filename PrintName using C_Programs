@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main()
+{
+    printf("shed-X");
+    return 0;
+}
